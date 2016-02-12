@@ -67,13 +67,13 @@ AdStirでは、スマートフォン向けとPC向けの広告タグは共通の
 <script type="text/javascript">
   var adstir_vars = {
     ver: "4.0",
-    // 管理画面から取得したIDに置き換えてください
+    // 管理画面から取得したPC用のIDに置き換えてください
     app_id: "MEDIA-YYYY",
     ad_spot: 1,
     floating: true,
   };
-  if (navigator.userAgent.match(/(iphone|ipad|android)/i)){
-    // 管理画面から取得したIDに置き換えてください
+  if (navigator.userAgent.match(/(iphone|ipod|android)/i)){
+    // 管理画面から取得したスマートフォン用のIDに置き換えてください
     adstir_vars.app_id = "MEDIA-XXXX";
     adstir_vars.ad_spot = 1;
   }
@@ -84,7 +84,7 @@ AdStirでは、スマートフォン向けとPC向けの広告タグは共通の
 #### スマートフォンのみで広告が呼び出されるようにする
 ```html
 <script type="text/javascript">
-  if (navigator.userAgent.match(/(iphone|ipad|android)/i)){
+  if (navigator.userAgent.match(/(iphone|ipod|android)/i)){
     window.adstir_vars = {
       ver: "4.0",
       // 管理画面から取得したIDに置き換えてください
