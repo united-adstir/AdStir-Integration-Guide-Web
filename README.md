@@ -1,6 +1,6 @@
 # AdStir Integration Guide for Web sites.
 
-AdStirのインテグレーションガイドです。スマートフォン環境に対応しています。広告タグは[AdStirにログイン後](https://ja.ad-stir.com/login "AdStir管理画面")、入手することができます。
+AdStirのインテグレーションガイドです。スマートフォン環境に対応しています。広告タグは[AdStirにログイン](https://ja.ad-stir.com/login "AdStir管理画面")後、入手することができます。
 
 * [AdStir](https://ja.ad-stir.com/ "AdStir")
 * [AdStirログイン](https://ja.ad-stir.com/login "AdStirログイン")
