@@ -1,4 +1,4 @@
-# AdStir Integration Guide for Web sites.
+# AdStir Integration Guide for Web sites
 
 AdStirのインテグレーションガイドです。スマートフォン環境に対応しています。広告タグは[AdStirにログイン](https://ja.ad-stir.com/login "AdStir管理画面")後、入手することができます。
 
@@ -7,6 +7,8 @@ AdStirのインテグレーションガイドです。スマートフォン環�
 * [AdStir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "AdStir Integration Guide for Android")
 * [AdStir Integration Guide for iOS](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/ "AdStir Integration Guide for iOS")
 * [AdStir Integration Guide for Unity](https://github.com/united-adstir/AdStir-Integration-Guide-Unity "AdStir Integration Guide for Unity")
+
+*Read this in other languages: [日本語](README.md), [English](README.en.md).*
 
 ## 一般的なタグの掲載方法
 
