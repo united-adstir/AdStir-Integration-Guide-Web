@@ -2,8 +2,8 @@
 
 * [AdStir](https://ja.ad-stir.com/)
 * [AdStir Publisher Console](https://en.ad-stir.com/login)
-* [AdStir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/blob/master/README.en.md)
-* [AdStir Integration Guide for iOS](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/blob/master/README.en.md)
+* [adstir Integration Guide for Android](https://united-adstir.github.io/android-sdk-docs/index.html)
+* [adstir Integration Guide for iOS](https://united-adstir.github.io/ios-sdk-docs/index.html)
 
 *Read this in other languages: [日本語](README.md), [English](README.en.md).*
 
