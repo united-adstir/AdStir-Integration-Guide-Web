@@ -17,7 +17,7 @@
       ad_spot: 1,
     };
   </script>
-  <script type="text/javascript" src="http://js.ad-stir.com/js/adstir.js?20130527"></script>
+  <script type="text/javascript" src="https://js.ad-stir.com/js/adstir.js?20130527"></script>
   <!-- ここまで -->
 </div>
 ...
@@ -41,7 +41,7 @@
     floating: true,
   };
 </script>
-<script type="text/javascript" src="http://js.ad-stir.com/js/adstir.js?20130527"></script>
+<script type="text/javascript" src="https://js.ad-stir.com/js/adstir.js?20130527"></script>
 <!-- ここまで -->
 </body>
 </html>
@@ -76,7 +76,7 @@ AdStirでは、スマートフォン向けとPC向けの広告タグは共通の
     adstir_vars.ad_spot = 1;
   }
 </script>
-<script type="text/javascript" src="http://js.ad-stir.com/js/adstir.js?20130527"></script>
+<script type="text/javascript" src="https://js.ad-stir.com/js/adstir.js?20130527"></script>
 ```
 
 #### スマートフォンのみで広告が呼び出されるようにする
@@ -90,7 +90,7 @@ AdStirでは、スマートフォン向けとPC向けの広告タグは共通の
       ad_spot: 1,
       floating: true,
     };
-    document.write('<scr'+'ipt src="http://js.ad-stir.com/js/adstir.js?20130527"><\/scr'+'ipt>')
+    document.write('<scr'+'ipt src="https://js.ad-stir.com/js/adstir.js?20130527"><\/scr'+'ipt>')
   }
 </script>
 ```
